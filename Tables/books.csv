@@ -1,0 +1,100 @@
+id,book_id,isbn,authors,original_publication_year,title,language_code,average_rating,source
+1,2767052,439023483,Suzanne Collins,2008,"The Hunger Games (The Hunger Games, #1)",eng,4.34,Amazon
+2,3,439554934,"J.K. Rowling, Mary GrandPré",1997,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",eng,4.44,Kindle
+3,41865,316015849,Stephenie Meyer,2005,"Twilight (Twilight, #1)",en-US,3.57,Amazon
+4,2657,61120081,Harper Lee,1960,To Kill a Mockingbird,eng,4.25,Kindle
+5,4671,743273567,F. Scott Fitzgerald,1925,The Great Gatsby,eng,3.89,Amazon
+6,11870085,525478817,John Green,2012,The Fault in Our Stars,eng,4.26,Audible
+7,5907,618260307,J.R.R. Tolkien,1937,The Hobbit,en-US,4.25,Audible
+8,5107,316769177,J.D. Salinger,1951,The Catcher in the Rye,eng,3.79,Kindle
+9,960,1416524797,Dan Brown,2000,"Angels & Demons  (Robert Langdon, #1)",en-CA,3.85,Barnes & Noble
+10,1885,679783261,Jane Austen,1813,Pride and Prejudice,eng,4.24,Kindle
+11,77203,1594480001,Khaled Hosseini,2003,The Kite Runner,eng,4.26,Kindle
+12,13335037,62024035,Veronica Roth,2011,"Divergent (Divergent, #1)",eng,4.24,Barnes & Noble
+13,5470,451524934,"George Orwell, Erich Fromm, Celâl Üster",1949,1984,eng,4.14,Audible
+14,7613,452284244,George Orwell,1945,Animal Farm,eng,3.87,Barnes & Noble
+15,48855,553296981,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",1947,The Diary of a Young Girl,eng,4.1,Kindle
+16,2429135,307269752,"Stieg Larsson, Reg Keeland",2005,"The Girl with the Dragon Tattoo (Millennium, #1)",eng,4.11,Barnes & Noble
+17,6148028,439023491,Suzanne Collins,2009,"Catching Fire (The Hunger Games, #2)",eng,4.3,Barnes & Noble
+18,5,43965548,"J.K. Rowling, Mary GrandPré, Rufus Beck",1999,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",eng,4.53,Kindle
+19,34,618346252,J.R.R. Tolkien,1954,"The Fellowship of the Ring (The Lord of the Rings, #1)",eng,4.34,Audible
+20,7260188,439023513,Suzanne Collins,2010,"Mockingjay (The Hunger Games, #3)",eng,4.03,Barnes & Noble
+21,2,439358078,"J.K. Rowling, Mary GrandPré",2003,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",eng,4.46,Barnes & Noble
+22,12232938,316166685,Alice Sebold,2002,The Lovely Bones,eng,3.77,Barnes & Noble
+23,15881,439064864,"J.K. Rowling, Mary GrandPré",1998,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",eng,4.37,Audible
+24,6,439139600,"J.K. Rowling, Mary GrandPré",2000,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",eng,4.53,Audible
+25,136251,545010225,"J.K. Rowling, Mary GrandPré",2007,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",eng,4.61,Audible
+26,968,307277674,Dan Brown,2003,"The Da Vinci Code (Robert Langdon, #2)",eng,3.79,Barnes & Noble
+27,1,439785960,"J.K. Rowling, Mary GrandPré",2005,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",eng,4.54,Barnes & Noble
+28,7624,140283331,William Golding,1954,Lord of the Flies,eng,3.64,Kindle
+29,18135,743477111,"William Shakespeare, Robert           Jackson",1595,Romeo and Juliet,eng,3.73,Audible
+30,8442457,297859382,Gillian Flynn,2012,Gone Girl,eng,4.03,Barnes & Noble
+31,4667024,399155341,Kathryn Stockett,2009,The Help,eng,4.45,Barnes & Noble
+32,890,142000671,John Steinbeck,1937,Of Mice and Men,eng,3.84,Kindle
+33,930,739326228,Arthur Golden,1997,Memoirs of a Geisha,eng,4.08,Amazon
+34,10818853,1612130291,E.L. James,2011,"Fifty Shades of Grey (Fifty Shades, #1)",eng,3.67,Kindle
+35,865,61122416,"Paulo Coelho, Alan R. Clarke",1988,The Alchemist,eng,3.82,Barnes & Noble
+36,3636,385732554,Lois Lowry,1993,"The Giver (The Giver, #1)",eng,4.12,Kindle
+37,100915,60764899,C.S. Lewis,1950,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",eng,4.19,Amazon
+38,14050,965818675,Audrey Niffenegger,2003,The Time Traveler's Wife,eng,3.95,Barnes & Noble
+39,13496,553588486,George R.R. Martin,1996,"A Game of Thrones (A Song of Ice and Fire, #1)",eng,4.45,Kindle
+40,19501,143038419,Elizabeth Gilbert,2006,"Eat, Pray, Love",eng,3.51,Barnes & Noble
+41,28187,786838655,Rick Riordan,2005,"The Lightning Thief (Percy Jackson and the Olympians, #1)",eng,4.23,Barnes & Noble
+42,1934,451529308,Louisa May Alcott,1868,"Little Women (Little Women, #1)",en-US,4.04,Barnes & Noble
+43,10210,142437204,"Charlotte Brontë, Michael Mason",1847,Jane Eyre,eng,4.1,Kindle
+44,15931,553816713,Nicholas Sparks,1996,"The Notebook (The Notebook, #1)",eng,4.06,Kindle
+45,4214,770430074,Yann Martel,2001,Life of Pi,,3.88,Kindle
+46,43641,1565125606,Sara Gruen,2006,Water for Elephants,eng,4.07,Kindle
+47,19063,375831002,Markus Zusak,2005,The Book Thief,eng,4.36,Barnes & Noble
+48,4381,307347974,Ray Bradbury,1953,Fahrenheit 451,spa,3.97,Kindle
+49,49041,316160199,Stephenie Meyer,2006,"New Moon (Twilight, #2)",eng,3.52,Kindle
+50,30119,60513039,Shel Silverstein,1974,Where the Sidewalk Ends,eng,4.29,Audible
+51,256683,1416914285,Cassandra Clare,2007,"City of Bones (The Mortal Instruments, #1)",eng,4.12,Kindle
+52,428263,316160202,Stephenie Meyer,2007,"Eclipse (Twilight, #3)",en-US,3.69,Kindle
+53,113436,375826696,Christopher Paolini,2002,"Eragon (The Inheritance Cycle, #1)",en-US,3.86,Barnes & Noble
+54,11,345391802,Douglas Adams,1979,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",en-US,4.2,Audible
+55,5129,60929871,Aldous Huxley,1932,Brave New World,eng,3.97,Kindle
+56,1162543,031606792X,Stephenie Meyer,2008,"Breaking Dawn (Twilight, #4)",en-US,3.7,Audible
+57,37435,142001740,Sue Monk Kidd,2001,The Secret Life of Bees,en-US,4.01,Barnes & Noble
+58,2956,142437174,"Mark Twain, John Seelye, Guy Cardwell",1884,The Adventures of Huckleberry Finn,eng,3.8,Barnes & Noble
+59,24178,64410935,"E.B. White, Garth Williams, Rosemary Wells",1952,Charlotte's Web,eng,4.15,Audible
+60,1618,1400032717,Mark Haddon,2003,The Curious Incident of the Dog in the Night-Time,eng,3.85,Kindle
+61,22557272,1594633665,Paula Hawkins,2015,The Girl on the Train,eng,3.88,Kindle
+62,119322,679879242,Philip Pullman,1995,"The Golden Compass (His Dark Materials, #1)",eng,3.94,Barnes & Noble
+63,6185,393978893,"Emily Brontë, Richard J. Dunn",1847,Wuthering Heights,eng,3.82,Kindle
+64,10917,743454537,Jodi Picoult,2004,My Sister's Keeper,eng,4.06,Amazon
+65,4981,385333846,Kurt Vonnegut Jr.,1969,Slaughterhouse-Five,eng,4.06,Kindle
+66,18405,446675539,Margaret Mitchell,1936,Gone with the Wind,eng,4.28,Barnes & Noble
+67,128029,1594489505,Khaled Hosseini,2007,A Thousand Splendid Suns,eng,4.34,Audible
+68,22628,671027344,Stephen Chbosky,1999,The Perks of Being a Wallflower,eng,4.21,Amazon
+69,11735983,7442912,Veronica Roth,2012,"Insurgent (Divergent, #2)",eng,4.07,Amazon
+70,375802,812550706,Orson Scott Card,1985,"Ender's Game (Ender's Saga, #1)",eng,4.3,Barnes & Noble
+71,18490,141439475,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",1818,Frankenstein,eng,3.75,Amazon
+72,11588,450040186,Stephen King,1977,The Shining (The Shining #1),eng,4.17,Barnes & Noble
+73,1656001,316068047,Stephenie Meyer,2008,"The Host (The Host, #1)",en-US,3.84,Kindle
+74,99561,142402516,John Green,2005,Looking for Alaska,eng,4.09,Amazon
+75,227443,014028009X,Helen Fielding,1996,"Bridget Jones's Diary (Bridget Jones, #1)",eng,3.75,Amazon
+76,14935,141439661,"Jane Austen, Tony Tanner, Ros Ballaster",1811,Sense and Sensibility,eng,4.06,Kindle
+77,38709,439244196,"Louis Sachar, Louis Sachar",1998,"Holes (Holes, #1)",eng,3.93,Audible
+78,5139,307275558,Lauren Weisberger,2003,"The Devil Wears Prada (The Devil Wears Prada, #1)",eng,3.7,Barnes & Noble
+79,1381,143039954,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",-720,The Odyssey,eng,3.73,Kindle
+80,157993,156012197,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",1946,The Little Prince,eng,4.28,Barnes & Noble
+81,7445,074324754X,Jeannette Walls,2005,The Glass Castle,eng,4.24,Amazon
+82,1845,385486804,Jon Krakauer,1996,Into the Wild,eng,3.94,Amazon
+83,1953,141439602,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",1859,A Tale of Two Cities,eng,3.81,Barnes & Noble
+84,7677,030734813X,Michael Crichton,1990,"Jurassic Park (Jurassic Park, #1)",spa,3.96,Amazon
+85,370493,60256656,Shel Silverstein,1964,The Giving Tree,eng,4.38,Barnes & Noble
+86,32542,385338600,John Grisham,1989,A Time to Kill,eng,4.03,Amazon
+87,1617,374500010,"Elie Wiesel, Marion Wiesel",1958,Night (The Night Trilogy #1),eng,4.3,Kindle
+88,6442769,014241493X,John Green,2008,Paper Towns,en-US,3.88,Amazon
+89,21787,345418263,William Goldman,1973,The Princess Bride ,en-US,4.25,Barnes & Noble
+90,231804,014038572X,S.E. Hinton,1967,The Outsiders,en-US,4.06,Barnes & Noble
+91,6186357,385737947,James Dashner,2009,"The Maze Runner (Maze Runner, #1)",eng,4.02,Amazon
+92,1202,61234001,"Steven D. Levitt, Stephen J. Dubner",2005,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",en-US,3.93,Kindle
+93,2998,517189607,Frances Hodgson Burnett,1911,The Secret Garden,eng,4.12,Amazon
+94,320,60531045,"Gabriel García Márquez, Gregory Rabassa",1967,One Hundred Years of Solitude,eng,4.04,Barnes & Noble
+95,5297,375751513,"Oscar Wilde, Jeffrey Eugenides",1891,The Picture of Dorian Gray,eng,4.06,Amazon
+96,13536860,345803507,E.L. James,2012,"Fifty Shades Freed (Fifty Shades, #3)",eng,3.88,Kindle
+97,17245,393970124,"Bram Stoker, Nina Auerbach, David J. Skal",1897,Dracula,eng,3.98,Barnes & Noble
+98,5060378,307269981,"Stieg Larsson, Reg Keeland",2006,"The Girl Who Played with Fire (Millennium, #2)",eng,4.22,Barnes & Noble
+99,11857408,1612130585,E.L. James,2011,"Fifty Shades Darker (Fifty Shades, #2)",eng,3.87,Amazon
